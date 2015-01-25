@@ -3,7 +3,7 @@ from __future__ import division
 from math import cos, sin, fabs, pi
 from random import randint
 
-from sfml import sf
+import sfml as sf
 
 
 # define some constants
